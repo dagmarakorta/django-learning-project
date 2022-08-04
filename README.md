@@ -1,6 +1,6 @@
 # Django learning project
 
-ℹ️ This project's purpouse is to learn and practice the use of **Django** and **Python**
+ℹ️ This project's purpose is to learn and practice the use of **Django** and **Python**
 
 
 
